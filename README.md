@@ -1,2 +1,2 @@
-# LSML2_Machine_translation
- MLflow project + Docker
+# LSML2 Machine translation project using MLflow + Docker
+
